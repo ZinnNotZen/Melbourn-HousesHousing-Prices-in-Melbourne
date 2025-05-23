@@ -7,9 +7,10 @@ The goal is to build a reliable linear regression model that identifies key pred
 
 # Dataset
 The original was aquired from Kaggle from this:
+
 https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot?resource=download
 
-#Data Description
+# Data Description
 Key variables analyzed include:
 
 Number of rooms
